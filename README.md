@@ -40,13 +40,13 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/start_stop_random_pattern.gif?v=1648793565173)
+![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/start_stop_random_pattern.gif?v=1648793565173)  
 Starting and stopping game to demonstrate random patterns
 
-![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/lose_alert.gif?v=1648795779936)
+![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/lose_alert.gif?v=1648795779936)  
 Losing game
 
-![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/win_alert.gif?v=1648795786578)
+![](https://cdn.glitch.global/f099ab5b-7d1a-486f-b30b-75981cdbce22/win_alert.gif?v=1648795786578)  
 Winning game
 
 ## Reflection Questions
